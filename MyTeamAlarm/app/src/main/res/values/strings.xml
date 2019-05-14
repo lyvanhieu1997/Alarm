@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyTeamAlarm</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="whale_array">
+        <item>Nhac Ngau nhien</item>
+        <item>Last Farewall</item>
+        <item>Avenger</item>
+        <item>Humpback contact Call Whup</item>
+        <item>Reality</item>
+        <item>Hong Nhan</item>
+        <item>Dark Side</item>
+        <item>Humpback whale song</item>
+        <item>One more Night</item>
+        <item>Nhac Iphone 1</item>
+        <item>Nhac Iphone 2</item>
+        <item>Nguoi Ay</item>
+        <item>Khong Cam Xuc</item>
+        <item>Killer whale transient</item>
+    </string-array>
+</resources>
